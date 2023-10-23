@@ -1,6 +1,6 @@
 // 
-// CS 211 - Project 2: Writing a C program that will determine whether input is given with properly balanced symbols
-// Rimsha Rizvi (659249234)
+// Project: Writing a C program that will determine whether the input is given with properly balanced symbols
+// Rimsha Rizvi
 // 
 
 #include <stdio.h>
