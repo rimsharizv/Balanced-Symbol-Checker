@@ -11,9 +11,9 @@ This C program determines whether the given input consists of properly balanced 
 4. Comprehensive error messages showing expected symbols for unbalanced expressions.
 
 ## Usage:
-Compile the program with your preferred C compiler. For example: gcc -o checker main.c
-Run the executable and follow on-screen prompts: ./checker
-For debug mode: ./checker -d
+### Compile the program with your preferred C compiler. For example: gcc -o checker main.c
+### Run the executable and follow on-screen prompts: ./checker
+### For debug mode: ./checker -d
 
 ## Copyright and Plagiarism Notice
 All content in this repository, including code, documentation, and other materials, is the property of Rimsha Rizvi.
